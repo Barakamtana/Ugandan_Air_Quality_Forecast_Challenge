@@ -1,2 +1,2 @@
 # Ugandan_Air_Quality_Forecast_Challenge
-Zinid Challange
+Zindi Challange
